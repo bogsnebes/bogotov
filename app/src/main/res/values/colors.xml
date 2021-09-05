@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Light version -->
+<resources>
+    <!-- Primary colors -->
+    <color name="primaryColor">#70BC89</color>
+    <color name="primaryLightColor">#8BA588</color>
+    <color name="primaryDarkColor">#567E54</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <!-- Secondary colors -->
+    <color name="secondaryColor">#FF00BF</color>
+    <color name="secondaryLightColor">#A63BDF</color>
+    <color name="secondaryDarkColor">#EC1ABF</color>
+    <color name="secondaryTextColor">#FFFFFF</color>
+    <!-- Icon color -->
+    <color name="iconColor">#FFFFFF</color>
+</resources>

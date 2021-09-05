@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Night override version -->
+<resources>
+    <!-- Primary colors -->
+    <color name="primaryLightColor">#7F9BA8</color>
+    <!-- Secondary colors -->
+    <color name="secondaryColor">#ff9700</color>
+    <color name="secondaryLightColor">#DFAF2B</color>
+    <color name="secondaryDarkColor">#ECA60A</color>
+</resources>
